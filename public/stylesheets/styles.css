@@ -5,3 +5,23 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+
+.text-white2 {
+  color: #f7f9f9;
+}
+
+.text-light-blue {
+  color: #2081c3;
+}
+
+.text-dark-blue {
+  color: #0a2c42;
+}
+
+.text-grey {
+  color: #bfbfbf;
+}
+
+.bg-light-blue {
+  background-color: #2081c3;
+}
